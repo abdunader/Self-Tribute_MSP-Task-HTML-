@@ -35,7 +35,7 @@ You can view the website by:
 1. Cloning this repository
 2. Opening any of the HTML files in a web browser
 
-Or visit the live version at: [Your GitHub Pages URL or hosting platform]
+Or visit the live version at: [Triby](https://abdunader.github.io/Self-Tribute_MSP-Task-HTML-/)
 
 ## Future Improvements
 
